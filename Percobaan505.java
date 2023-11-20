@@ -13,6 +13,6 @@ public class Percobaan505 {
     public static void main(String[] args) {
         Tampil("Daspro 2019", 100, 200);
         Tampil("Teknologi Informasi", 1, 2, 3, 4, 5);
-        Tampil("Polinema");
+        Tampil("Polinemaa");
     }
 }
